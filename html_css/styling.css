@@ -1,0 +1,11 @@
+
+body {
+    font-family: comic sans ms;
+    background-color: lightblue;
+}
+
+h1 {
+    color: purple;
+    background-color: black;
+    background-size: 10px 10px;
+}
